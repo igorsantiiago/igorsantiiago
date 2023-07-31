@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Sobre mim 👋
+# 👨🏻‍💻 Sobre mim 👋
 - Sou um desenvolvedor backend apaixonado por tecnologia, com um foco especial em C# e .NET. Atualmente, estou aprofundando meus conhecimentos nessas tecnologias por meio de estudos e projetos práticos.
 
 <div style="display: inline_block"><br>
