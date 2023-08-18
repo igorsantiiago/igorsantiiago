@@ -9,7 +9,7 @@
 # 👨🏻‍💻 Sobre mim
 - Sou um desenvolvedor backend apaixonado por tecnologia, com um foco especial em C# e .NET.
 - Cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio.
-Atualmente, estou aprofundando meus conhecimentos nessas tecnologias por meio de estudos e projetos práticos.
+- Atualmente, estou aprofundando meus conhecimentos por meio de estudos e projetos práticos.
 
 ---
 
