@@ -1,5 +1,7 @@
- ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=f5f5f5&center=true&width=600&lines=Bem-vindo(a),+eu+sou+o+Igor!) 
-
+<div align="center">
+<br>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=f5f5f5&center=true&width=600&lines=Bem-vindo(a),+eu+sou+o+Igor!) 
+</div>
 # 👨🏻‍💻 Sobre mim 👋
 - Sou um desenvolvedor backend apaixonado por tecnologia, com um foco especial em C# e .NET. Atualmente, estou aprofundando meus conhecimentos nessas tecnologias por meio de estudos e projetos práticos.
 
