@@ -1,6 +1,8 @@
 <div align="center">
   <br>
+
   ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=f5f5f5&center=true&width=600&lines=Bem-vindo(a),+eu+sou+o+Igor!) 
+
 </div>
 
 # 👨🏻‍💻 Sobre mim 👋
