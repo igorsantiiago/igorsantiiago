@@ -8,22 +8,34 @@
 
 # 👨🏻‍💻 Sobre mim
 - Sou um desenvolvedor backend apaixonado por tecnologia, com um foco especial em C# e .NET.
-- Cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio.
+- Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio.
 - Atualmente, estou aprofundando meus conhecimentos por meio de estudos e projetos práticos.
 
 ---
 
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Csharp logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Igor-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="HTML logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <div>Backend</div>
+  <img align="center" alt="Dotnet" src="https://img.shields.io/badge/.NET-5C2091?style=for-the-badge&logo=.net&logoColor=white">
+  <img align="center" alt="Csharp logo" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <br><br>
+  <div>Dados</div>
+  <img align="center" alt="SqlServer" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <br><br>
+  <div>Linguagens Secundárias</div>
+  <img align="center" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  <br><br>
+  <div>Ferramentas</div>
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="VsCode" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img align="center" alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img align="center" alt="Dotnet" src="https://img.shields.io/badge/Obsidian-5C2D91?style=for-the-badge&logo=obsidian&logoColor=white">
 </div>
 
 ---
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/igorsantiago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/igorsantiago" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
 </div>
 
 
