@@ -15,7 +15,7 @@
 ## 💻 Tecnologias
 
 <div style="display: inline_block">
-    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=dotnet,cs,html,css,sqlite,markdown">
+    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=dotnet,cs,typescript,html,css,sqlite,markdown">
 </div>
 
 ## 🛠️ Ferramentas
