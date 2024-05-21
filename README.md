@@ -21,7 +21,7 @@
 ## 🛠️ Ferramentas
 
 <div style="display: inline_block">
-    <img align="center" alt="ferramentas" src="https://skillicons.dev/icons?i=git,postman,vscode,visualstudio,powershell">
+    <img align="center" alt="ferramentas" src="https://skillicons.dev/icons?i=git,postman,vscode,visualstudio,obsidian,powershell">
 </div>
 
 ## 🔗 Contato
