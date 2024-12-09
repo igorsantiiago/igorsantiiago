@@ -15,13 +15,13 @@
 ## 💻 Tecnologias
 
 <div style="display: inline_block">
-    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=dotnet,cs,typescript,html,css,sqlite,markdown">
+    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=dotnet,cs,html,css,tailwind,markdown">
 </div>
 
 ## 🛠️ Ferramentas
 
 <div style="display: inline_block">
-    <img align="center" alt="ferramentas" src="https://skillicons.dev/icons?i=git,postman,vscode,visualstudio,obsidian,powershell">
+    <img align="center" alt="ferramentas" src="https://skillicons.dev/icons?i=git,postman,vscode,visualstudio,rider,obsidian,powershell">
 </div>
 
 ## 🔗 Contato
